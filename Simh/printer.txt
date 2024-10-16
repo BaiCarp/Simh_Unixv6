@@ -1,0 +1,151 @@
+bin
+	ar
+	as
+	bas
+	cat	
+	cc
+	cdb
+	chgrp
+	chmod
+	chown
+	clri
+	cmp
+	cp
+	date
+	db
+	dc
+	dcheck
+	dd
+	df
+	dsw
+	du
+	dump
+	echo
+	ed
+	exit
+	fc
+	file
+	goto
+	icheck
+	if
+	kill
+	ld
+	ln
+	login
+	ls
+	mail
+	mkdir
+	mv
+	ncheck
+	newgrp
+	nm
+	od
+	opr
+	passwd
+	pr
+	ps
+	restor
+	rew
+	rm
+	rmdir
+	sh
+	size
+	sort
+	strip
+	stty
+	su
+	sum
+	sync
+	time
+	tp
+	tty
+	uniq
+	who
+	write
+	
+core	
+dev	
+	kmem
+	lp0
+	mem
+	mt0
+	null
+	rk0
+	rk1
+	rk2
+	rmt0
+	rrk0
+	rrk1
+	rrk2
+	tap0
+	tty0
+	tty1
+	tty2
+	tty3
+	tty4
+	tty5
+	tty6
+	tty7
+	tty8
+
+etc	
+	cron
+	dtab
+	getty
+	glob
+	group
+	init
+	lpd
+	mkfs
+	mknod
+	mount
+	mtab
+	passwd
+	rc
+	ttys
+	umount
+	update
+	utmp
+	wall
+
+hpunix	
+lib
+	as2
+	c0
+	c1
+	c2
+	crt0.o
+	fc0
+	fc1
+	fcrt0.o
+	filib.a
+	fr0.o
+	liba.a
+	libc.a
+	libf.a
+	libp.a
+	libs.a
+	liby.a
+	lpr
+	mcrt0.o
+	tmgb
+	
+mnt	
+rkunix	
+rpunix	
+tmp	
+unix	
+usr
+	adm
+	bin
+	doc
+	fort
+	games
+	ken
+	lib
+	lpd
+	mdec
+	pub
+	source
+	sys
+	tmp
